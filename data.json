@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "title":"Amok (Coconut fish curry)",
+        "image":"https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/v1620068179/Traditional-Cambodian-Dishes-To-Eat-Amok/Traditional-Cambodian-Dishes-To-Eat-Amok.jpg",
+        "dis":"Traditional dishe",
+        "price":5
+
+    },
+    { 
+        
+        "id":2,
+        "title":"Nom Banh Chok (Khmer noodles)",
+        "image":"https://jurnalpemalang.co.id/wp-content/uploads/2025/02/photo-9-1681440473848751745337.jpg",
+        "dis":"Traditional dishe",
+        "price":5
+
+    },
+    {
+        
+        "id":3,
+        "title":"Lok lak (Stir fry)",
+        "image":"https://i.ytimg.com/vi/d6rloVVSxyk/sddefault.jpg",
+        "dis":"Traditional dishe",
+        "price":5.00
+    },
+    {
+         
+        "id":4,
+        "title":"Prahok ktis",
+        "image":"https://grantourismotravels.com/wp-content/uploads/2014/11/Authentic-Prahok-Ktis-Khmer-Recipe-Cambodia-Dip-Copyright-2022-Terence-Carter-Grantourismo-T-.jpg",
+        "dis":"Traditional dishe",
+        "price":5.00
+    },
+    {
+        "id":5,
+        "title":"Korko",
+        "image":"https://toursbyjeeps.com/wp-content/uploads/2020/12/Untitled-1.jpg",
+        "dis":"Traditional dishe",
+        "price":5.00
+
+    },
+    {
+        "id":6,
+        "title":"Banh xeo",
+        "image":"https://img.taste.com.au/hegWu1Xh/taste/2016/11/banh-xeo-crispy-pancakes-77516-1.jpeg",
+        "dis":"Traditional dishe",
+        "price":5.00
+    },
+    {
+        "id":7,
+        "title":"Khmer Red Curry",
+        "image":"https://hanoivoyage.com/uploads/Blogs/Cambodia/Visit-Cambodia/cuisine/cambodia-khmer-red-curry-01.webp",
+        "dis":"Traditional dishe",
+        "price":5.00
+    },
+    {
+        "id":8,
+        "title":"Lap Khmer(Cambodia beef salad)",
+        "image":"https://hanoivoyage.com/uploads/Blogs/Cambodia/Visit-Cambodia/cuisine/cambodia-lap-khmer-01.webp",
+        "dis":"Traditional dishe",
+        "price":5.00
+    }
+
+]
