@@ -1,25 +1,25 @@
 [
     {
         "id":1,
-        "title":"Amok (Coconut fish curry)",
+        "title":"Amok",
         "image":"https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/v1620068179/Traditional-Cambodian-Dishes-To-Eat-Amok/Traditional-Cambodian-Dishes-To-Eat-Amok.jpg",
         "dis":"Traditional dishe",
-        "price":5
+        "price":3.00
 
     },
     { 
         
         "id":2,
-        "title":"Nom Banh Chok (Khmer noodles)",
+        "title":"Nom Banh Chok",
         "image":"https://jurnalpemalang.co.id/wp-content/uploads/2025/02/photo-9-1681440473848751745337.jpg",
         "dis":"Traditional dishe",
-        "price":5
+        "price":2.50
 
     },
     {
         
         "id":3,
-        "title":"Lok lak (Stir fry)",
+        "title":"Lok lak",
         "image":"https://3catsfoodie.com/wp-content/uploads/2021/11/FEDFBBEE-D115-4ADB-9235-3228ED691328_1_201_a.jpeg",
         "dis":"Traditional dishe",
         "price":5.00
@@ -30,14 +30,14 @@
         "title":"Prahok ktis",
         "image":"https://lh3.googleusercontent.com/proxy/MjqsI9RZTy49f-LKBQYW4D9z3V47dO5j69Q4D6oaDQ3UhSRACnlBfqkTH_mjbJaQ8eAPiCy6FgDmoydO1D92yLPHKNLP0uO2_jUiSt1OAPSWnE7uCi7tTpy-SYwX0TGmARfQAdK8qj316z-M",
         "dis":"Traditional dishe",
-        "price":5.00
+        "price":2.50
     },
     {
         "id":5,
         "title":"Korko",
         "image":"https://toursbyjeeps.com/wp-content/uploads/2020/12/Untitled-1.jpg",
         "dis":"Traditional dishe",
-        "price":5.00
+        "price":2.00
 
     },
     {
@@ -45,21 +45,21 @@
         "title":"Banh xeo",
         "image":"https://img.taste.com.au/hegWu1Xh/taste/2016/11/banh-xeo-crispy-pancakes-77516-1.jpeg",
         "dis":"Traditional dishe",
-        "price":5.00
+        "price":3.00
     },
     {
         "id":7,
         "title":"Khmer Red Curry",
         "image":"https://hanoivoyage.com/uploads/Blogs/Cambodia/Visit-Cambodia/cuisine/cambodia-khmer-red-curry-01.webp",
         "dis":"Traditional dishe",
-        "price":5.00
+        "price":4.00
     },
     {
         "id":8,
-        "title":"Lap Khmer(Cambodia beef salad)",
+        "title":"Lap Khmer",
         "image":"https://travelsense.asia/wp-content/uploads/2018/10/Cambodia-Laos-Itinerary-1.jpg",
         "dis":"Traditional dishe",
-        "price":5.00
+        "price":3.00
     }
 
 ]
